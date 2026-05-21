@@ -35,23 +35,17 @@ A Passionate Developer | IoT Enthusiast | Lifelong Learner
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitjangid02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitjangid02&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjangid02&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ankitjangid02&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjangid02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjangid02&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitjangid02&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitjangid02&theme=tokyonight" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitjangid02&theme=tokyonight" />
 </p>
 
 ---
